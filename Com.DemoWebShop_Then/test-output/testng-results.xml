@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-04-08T20:05:45 IST" name="Default suite" finished-at="2026-04-08T20:06:03 IST" duration-ms="17478">
+    <groups>
+    </groups>
+    <test started-at="2026-04-08T20:05:45 IST" name="Default test" finished-at="2026-04-08T20:06:03 IST" duration-ms="17478">
+      <class name="Com.DemoWebShop_TestScripts.TC_001_DeleteAddress">
+        <test-method is-config="true" signature="bs()[pri:0, instance:Com.DemoWebShop_TestScripts.TC_001_DeleteAddress@74e52ef6]" started-at="2026-04-08T20:05:45 IST" name="bs" finished-at="2026-04-08T20:05:45 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bs -->
+        <test-method is-config="true" signature="bt()[pri:0, instance:Com.DemoWebShop_TestScripts.TC_001_DeleteAddress@74e52ef6]" started-at="2026-04-08T20:05:45 IST" name="bt" finished-at="2026-04-08T20:05:45 IST" duration-ms="155" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bt -->
+        <test-method is-config="true" signature="bc()[pri:0, instance:Com.DemoWebShop_TestScripts.TC_001_DeleteAddress@74e52ef6]" started-at="2026-04-08T20:05:45 IST" name="bc" finished-at="2026-04-08T20:05:49 IST" duration-ms="3854" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bc -->
+        <test-method is-config="true" signature="bm()[pri:0, instance:Com.DemoWebShop_TestScripts.TC_001_DeleteAddress@74e52ef6]" started-at="2026-04-08T20:05:49 IST" name="bm" finished-at="2026-04-08T20:05:51 IST" duration-ms="1551" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method signature="addAddress()[pri:0, instance:Com.DemoWebShop_TestScripts.TC_001_DeleteAddress@74e52ef6]" started-at="2026-04-08T20:05:51 IST" name="addAddress" finished-at="2026-04-08T20:05:59 IST" duration-ms="8527" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addAddress -->
+        <test-method is-config="true" signature="am()[pri:0, instance:Com.DemoWebShop_TestScripts.TC_001_DeleteAddress@74e52ef6]" started-at="2026-04-08T20:05:59 IST" name="am" finished-at="2026-04-08T20:06:00 IST" duration-ms="852" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- am -->
+        <test-method is-config="true" signature="ac()[pri:0, instance:Com.DemoWebShop_TestScripts.TC_001_DeleteAddress@74e52ef6]" started-at="2026-04-08T20:06:00 IST" name="ac" finished-at="2026-04-08T20:06:02 IST" duration-ms="2317" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ac -->
+        <test-method is-config="true" signature="at()[pri:0, instance:Com.DemoWebShop_TestScripts.TC_001_DeleteAddress@74e52ef6]" started-at="2026-04-08T20:06:02 IST" name="at" finished-at="2026-04-08T20:06:03 IST" duration-ms="193" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- at -->
+        <test-method is-config="true" signature="as()[pri:0, instance:Com.DemoWebShop_TestScripts.TC_001_DeleteAddress@74e52ef6]" started-at="2026-04-08T20:06:03 IST" name="as" finished-at="2026-04-08T20:06:03 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- as -->
+      </class> <!-- Com.DemoWebShop_TestScripts.TC_001_DeleteAddress -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
