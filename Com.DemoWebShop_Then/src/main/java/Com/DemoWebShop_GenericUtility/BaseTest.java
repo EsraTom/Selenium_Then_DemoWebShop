@@ -62,10 +62,11 @@ public class BaseTest {
 	{
 		System.out.println("@BeforeSuite   Browser launched");
 
-		String browser = fileUtility.readDataFromPropertyFile("browserName");
-		String url = fileUtility.readDataFromPropertyFile("baseUrl");
+		//String browser = fileUtility.readDataFromPropertyFile("browserName");
+		//String url = fileUtility.readDataFromPropertyFile("baseUrl");
 		
-		//String browser=System.getProperty("browserName");
+		String browser=System.getProperty("browserName");
+		String url=System.getProperty("baseurl");
 
 		if (browser.equalsIgnoreCase("chrome")) 
 		{
