@@ -66,7 +66,7 @@ public class BaseTest {
 		//String url = fileUtility.readDataFromPropertyFile("baseUrl");
 		
 		String browser=System.getProperty("browserName");
-		String url=System.getProperty("baseurl");
+		String url=System.getProperty("baseUrl");
 
 		if (browser.equalsIgnoreCase("chrome")) 
 		{
