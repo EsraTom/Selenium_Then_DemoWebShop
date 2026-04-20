@@ -13,6 +13,7 @@ public class TC_001_DeleteAddress_Test extends BaseTest {
 	@Test
 	public void addAddress() throws InterruptedException, EncryptedDocumentException, IOException 
 	{
+		System.out.println("Wow");
 		Thread.sleep(2000);
 		webdriverUtility.javaScriptScrollToElement(driver, homepage.getAddressBtn());
 		homepage.getAddressBtn().click();

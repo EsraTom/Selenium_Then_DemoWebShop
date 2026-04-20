@@ -9,9 +9,12 @@ import Com.DemoWebShop_GenericUtility.BaseTest;
 import Com.DemoWebShop_POM.Addnew_Page;
 import Com.DemoWebShop_POM.Addresses_Page;
 
-public class TC_001_AddAddress_Test extends BaseTest {
+public class TC_001_AddAddress_Test extends BaseTest 
+{
 	@Test
-	public void addAddress() throws InterruptedException, EncryptedDocumentException, IOException {
+	public void addAddress() throws InterruptedException, EncryptedDocumentException, IOException 
+	{
+		System.out.println("Hello");
 		Thread.sleep(2000);
 		webdriverUtility.javaScriptScrollToElement(driver, homepage.getAddressBtn());
 		homepage.getAddressBtn().click();
